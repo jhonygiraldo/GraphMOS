@@ -7,7 +7,7 @@ By [Jhony H Giraldo](https://sites.google.com/view/jhonygiraldo), [Sajid Javed](
 
 ## Introduction
 
-This repository is code release for our paper Graph Moving Object Segmentation.
+This repository is the code released for our paper Graph Moving Object Segmentation.
 
 ## Citation
 
