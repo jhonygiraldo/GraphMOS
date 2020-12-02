@@ -1,5 +1,5 @@
 # Graph Moving Object Segmentation
-By [Jhony H Giraldo](https://sites.google.com/view/jhonygiraldo), [Sajid Javed](https://sites.google.com/view/sajidjaved/home), [Thierry Bouwmans](https://sites.google.com/site/thierrybouwmans/)
+Authors: [Jhony H Giraldo](https://sites.google.com/view/jhonygiraldo), [Sajid Javed](https://sites.google.com/view/sajidjaved/home), [Thierry Bouwmans](https://sites.google.com/site/thierrybouwmans/)
 - - - -
 ![Pipeline](https://github.com/jhonygiraldo/GraphMOS/blob/master/doc/pipeline_vs_03.png)
 - - - -
