@@ -1,4 +1,4 @@
-# Graph Background Subtraction
+# Graph Moving Object Segmentation
 
 ![Pipeline](https://github.com/jhonygiraldo/GraphMOS/blob/master/doc/pipeline_vs_03.png)
 
