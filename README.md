@@ -20,7 +20,7 @@ Inside the repository, initialize and clone the submodules
 git submodule init
 git submodule update
 ```
-Install all the toolboxes, i.e., gspboox, unlocbox, and detectron2.
+Install all toolboxes, i.e., gspboox, unlocbox, and detectron2.
 - - - -
 ## Citation
 
