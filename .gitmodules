@@ -1,0 +1,3 @@
+[submodule "toolboxes/gspbox"]
+	path = toolboxes/gspbox
+	url = https://github.com/jhonygiraldo/gspbox
