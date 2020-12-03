@@ -11,7 +11,16 @@ This repository is the code released for our paper Graph Moving Object Segmentat
 
 #### Installation
 
-Use git clone...
+Clone this repository
+```bash
+git clone https://github.com/jhonygiraldo/GraphMOS  
+```
+Inside the repository, initialize and clone the submodules
+```bash
+git submodule init
+git submodule update
+```
+Install all the toolboxes, i.e., gspboox, unlocbox, and detectron2.
 - - - -
 ## Citation
 
