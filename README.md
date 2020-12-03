@@ -50,3 +50,4 @@ If you use our code, please cite
 ## References
 
 - This repository builds upon, thus borrows code from [gspbox](https://github.com/epfl-lts2/gspbox), [unlocbox](https://github.com/epfl-lts2/unlocbox) and [detectron2](https://github.com/facebookresearch/detectron2).
+- [Please see the conference version of our code here for additional datasets](https://github.com/jhonygiraldo/GraphBGS)
