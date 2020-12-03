@@ -1,3 +1,9 @@
 [submodule "toolboxes/gspbox"]
 	path = toolboxes/gspbox
 	url = https://github.com/jhonygiraldo/gspbox
+[submodule "toolboxes/unlocbox"]
+	path = toolboxes/unlocbox
+	url = https://github.com/epfl-lts2/unlocbox
+[submodule "toolboxes/detectron2-ResNeSt"]
+	path = toolboxes/detectron2-ResNeSt
+	url = https://github.com/zhanghang1989/detectron2-ResNeSt
