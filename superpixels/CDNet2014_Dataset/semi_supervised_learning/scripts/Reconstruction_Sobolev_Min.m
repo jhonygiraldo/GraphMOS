@@ -29,7 +29,7 @@ folders_sequences = {{'blizzard';'skating';'snowFall';'wetSnow'};...
     {'turbulence0';'turbulence1';'turbulence2';'turbulence3'}};
 %%
 cont_sequences = 1;
-for hh=2:length(folder_challenges)
+for hh=1:length(folder_challenges)
     for h=1:length(folders_sequences{hh})
         %%
         path_output_sequence = [output_folder,folder_challenges{hh},'/',...
