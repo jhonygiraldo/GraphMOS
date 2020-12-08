@@ -1,0 +1,3 @@
+These scripts contain the code using superpixels for segmentation for GraphMOS only with handcrafted features. This algorithm is really computational expensive for background subtraction, and thus we recommend people using instance or semantic segmentation which has similar performance.
+
+If you want to use this repository in other tasks such as semantic segmentation, please be aware that you have to extend the graph signal matrix to your number of semantic classes, and you have to finetune the parameters of the algorithm.
