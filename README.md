@@ -36,7 +36,7 @@ If you use our code, please cite
         @inproceedings{giraldo2020graphbgs,
           title={{GraphBGS}: Background Subtraction via Recovery of Graph Signals},
           author={Giraldo, Jhony H and Bouwmans, Thierry},
-          journal={International Conference on Pattern Recognition (ICPR)},
+          booktitle={International Conference on Pattern Recognition (ICPR)},
           year={2020}
         }
         
