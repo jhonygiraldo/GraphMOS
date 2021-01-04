@@ -7,7 +7,7 @@ Authors: [Jhony H Giraldo](https://sites.google.com/view/jhonygiraldo), [Sajid J
 - - - -
 ## Getting started
 
-This repository is the code released for our paper Graph Moving Object Segmentation. [Paper](doi.org/10.1109/tpami.2020.3042093), [Preprint](https://drive.google.com/file/d/1Pk7y6tp5fO2qUTISJyHlqVD67NxXrU3h/view)
+This repository is the code released for our paper Graph Moving Object Segmentation. [Journal Paper](https://doi.org/10.1109/tpami.2020.3042093), [Preprint](https://drive.google.com/file/d/1Pk7y6tp5fO2qUTISJyHlqVD67NxXrU3h/view).
 
 #### Installation
 
